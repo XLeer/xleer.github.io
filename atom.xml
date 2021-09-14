@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Leer&#39;s Space</title>
+  <icon>https://leersan.space/favicon.png</icon>
+  <subtitle>没有人会来的地方</subtitle>
+  <link href="https://leersan.space/atom.xml" rel="self"/>
+  
+  <link href="https://leersan.space/"/>
+  <updated>2021-09-14T08:35:39.896Z</updated>
+  <id>https://leersan.space/</id>
+  
+  <author>
+    <name>Leer(Xiao_Le)</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>To-Do Before Suicide</title>
+    <link href="https://leersan.space/2021/06/11/To-Do-Before-Suicide/"/>
+    <id>https://leersan.space/2021/06/11/To-Do-Before-Suicide/</id>
+    <published>2021-06-11T13:36:40.000Z</published>
+    <updated>2021-09-14T08:35:39.896Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="正事"><a href="#正事" class="headerlink" title="正事"></a>正事</h1><p>希望可以在这未来的十年里，尽情地体验所有，去探索自己未曾尝试过的种种。当那一天来临时，如果咱仍旧对自己如同现在一样感到无尽失望的话，那么不抱遗憾地离开这个世界便是最好的选择。  </p><hr><ol><li>减肥 （debu 的救赎</li><li>穿上小裙子</li><li>去学日语</li><li>修订 《完全自杀手册》</li><li>翻译 《完全失踪手册》</li><li>游遍日本</li><li>……</li></ol><hr><p>看起来每一个都不是那么容易欸，但十年应该够了吧。这些项目会随时增删，当然也有可能什么都没做就失踪这样子的……</p><h1 id="关于最后一天的设想"><a href="#关于最后一天的设想" class="headerlink" title="关于最后一天的设想"></a>关于最后一天的设想</h1><p>带着自己所有预先攒下的积蓄来到日本，随心漫游。在护照到期的最后一天的夜里，躺在宾馆的床上服下安眠药，身旁放满老婆，穿着可爱的衣服。带上 VR 眼镜，在 VRChat 中和大家告别，最后在喧闹中进入梦乡。</p><h1 id="对那时的我"><a href="#对那时的我" class="headerlink" title="对那时的我"></a>对那时的我</h1><p>在这十年时间里，希望你没有被生活打倒，依旧燃着对一切的好奇以及热爱，并且找回自信、变得勇敢。当然，是否要 Suicide 取决于你的选择，如果有所坚持的事业、所牵挂的事物乃至爱着的她\他，我不会因此而 blame 违约的你。<br>就这样了。</p><hr><p>背景图 pid: <a href="https://www.pixiv.net/artworks/78500908">78500908</a></p>]]></content>
+    
+    
+    <summary type="html">Leer 在绝望时设立的死亡清单，但愿在 30 岁的离世前信守诺言</summary>
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://leersan.space/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello,world!</title>
+    <link href="https://leersan.space/2021/02/17/helloworld/"/>
+    <id>https://leersan.space/2021/02/17/helloworld/</id>
+    <published>2021-02-17T15:22:34.000Z</published>
+    <updated>2021-09-14T08:35:39.896Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="你好鸭，这里是-Xiao-Le（Leer）！"><a href="#你好鸭，这里是-Xiao-Le（Leer）！" class="headerlink" title="你好鸭，这里是 Xiao_Le（Leer）！"></a>你好鸭，这里是 Xiao_Le（Leer）！</h1><p>想着“没有部落格怎么算网上冲浪呢？”这样的话最终还是（再一次）搭建起了这个托管于 <a href="https://github.com/">Github</a> 的 <a href="https://hexo.io/zh-cn/">hexo</a> 博客。</p><p>之后可能会分享一些自己的生活，并同步一些会在 Twitter 和 Telegram 上的垃圾，这个样子。</p><p>只可惜咱才疏学浅，不能像周围的 dalao 一样去输出一些技术性的文章，也没有写一些优美文字的天赋。所以在很长的一段时间内都不会有新的文章出现了。</p><p>但，在学了在学了，咱在高考之后会去学一些酷东西的，get到更多技能，有输出内容的资本。</p><p>或许吧。</p>]]></content>
+    
+    
+    <summary type="html">你好世界！想着“没有部落格怎么算网上冲浪呢？”这样的话最终还是（再一次）搭建起了这个博客，之后会在这里分享一些自己的生活</summary>
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://leersan.space/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
